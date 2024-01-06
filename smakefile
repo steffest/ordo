@@ -1,0 +1,22 @@
+#OBJS=main.o src/screen.o  src/timer.o parts/bears.o parts/intro.o src/modPlay.o src/ptPlayer/ptPlayer.o
+OBJS=main.o src/screen.o src/assetManager.o src/util.o src/easing.o src/timer.o parts/loader.o parts/waves.o parts/bears.o parts/intro.o parts/spring.o parts/greetings.o src/modPlay.o src/ptPlayer/ptPlayer.o
+
+loadGraphics: $(OBJS)
+   sc link to main $(OBJS)
+
+main.o: main.c
+modPlay.o: src/modPlay.c
+screen.o: src/screen.c
+assetManager.o: src/assetManager.c
+timer.o: src/timer.c
+util.o: src/util.c
+easing.o: src/easing.c
+
+loader.o: parts/loader.c
+intro.o: parts/intro.c
+spring.o: parts/spring.c
+waves.o: parts/waves.c
+bears.o: parts/bears.c
+greetings.o: parts/greetings.c
+   
+

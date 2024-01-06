@@ -1,0 +1,1 @@
+int random(int max);
