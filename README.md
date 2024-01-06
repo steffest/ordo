@@ -10,9 +10,10 @@ Source code in C
 It runs (or should run) on any Amiga. it's fairly system safe.
 
 This is my first demo for the Amiga. 
-I know the source is a bit crap - I don't know donky balls about C and I kinf of assumed I could get the hang out of it just diving in.
+I know the source is a bit crap - I don't know donkey balls about C and I kind of assumed I could get the hang out of it just diving in.
 This production is the result of banging my head to walls and in the end (literaly HOURS before the compo deadline) settling for the only stuff that I could get working: 
 bliiter baby!
+So it's mostly a glorified slideshow.
 
 Some starting princples
 - let's (first) stick to C, no Assembly yet. Yes, I know real demo-coders use assembly, but I feel "learning C" is a skill that comes in handy for other platforms as well, and C code runs everywhere.
