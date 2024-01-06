@@ -1,5 +1,5 @@
 ORDO
-An visual story about the endless cycle of ORDER and CHAOS, for the Commodore Amiga
+A visual story about the endless cycle of ORDER and CHAOS, for the Commodore Amiga
 
 ![ordo-screenshot](https://github.com/steffest/ordo/assets/763047/e39a486e-a467-41b1-9d84-1fd6d75bbfc9)
 
